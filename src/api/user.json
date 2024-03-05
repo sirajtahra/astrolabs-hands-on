@@ -1,0 +1,37 @@
+{
+  "id": 1,
+  "name": {
+    "first": "John",
+    "last": "Doe",
+    "middle": "M"
+  },
+  "email": "johndoe@example.com",
+  "phone": {
+    "home": "123-456-7890",
+    "mobile": "098-765-4321"
+  },
+  "addresses": [
+    {
+      "type": "home",
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    {
+      "type": "work",
+      "street": "456 Secondary St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10002"
+    }
+  ],
+  "account": {
+    "number": "1234567890",
+    "type": "Checking",
+    "balance": 10000.0,
+    "currency": "USD"
+  },
+  "dateOfBirth": "1980-01-01",
+  "socialSecurityNumber": "123-45-6789"
+}
